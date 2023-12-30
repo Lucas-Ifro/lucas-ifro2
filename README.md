@@ -6,10 +6,11 @@
 
 <div>
   <a href="https://github.com/lucas-ifro">
-  <img align="center" height="164em" src="https://github-readme-stats.vercel.app/api?username=lucas-ifro&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=lucas-ifro&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ifro&layout=compact&langs_count=16&theme=neon"/>
   
 </div>
+<br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="imagem.git.jpeg">
