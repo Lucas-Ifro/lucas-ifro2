@@ -2,18 +2,18 @@
 
 <h3>- 👩‍💻 Cursando ADS-Análise e desenvolvimento de sistemas no Ifro.</h3>
 <h3>- 👨‍🏫 Atualmente estou estudando Front-end.</h3>
-<h3>- 🤵 Estágiario em AWS cloud data engineering</h3>
+<h3>- 🤵 Estágiario da Compass UOL</h3>
 
 <div>
   <a href="https://github.com/lucas-ifro">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=lucas-ifro&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ifro&layout=compact&langs_count=16&theme=neon"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=lucas-ifro&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ifro&layout=compact&langs_count=16&theme=nord"/>
   
 </div>
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="imagem.git.jpeg">
+    <img align="left" height="250" alt="coding-time" src="imgagem.jpeg">
     <h2 align="center">Tecnologia Estudadas</h2>
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
