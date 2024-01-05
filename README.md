@@ -2,7 +2,7 @@
 
 <h3>- 👩‍💻 Cursando ADS-Análise e desenvolvimento de sistemas no Ifro.</h3>
 <h3>- 👨‍🏫 Atualmente estou estudando Front-end.</h3>
-<h3>- 🤵 Estágiario da Compass UOL</h3>
+<h3>- 🤵 Estágiario da Compass UOL.</h3>
 
 <div>
   <a href="https://github.com/lucas-ifro">
